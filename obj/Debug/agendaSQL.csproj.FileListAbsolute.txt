@@ -1,0 +1,15 @@
+C:\csharp\agendaSQL\bin\Debug\agendaSQL.exe.config
+C:\csharp\agendaSQL\bin\Debug\agendaSQL.exe
+C:\csharp\agendaSQL\bin\Debug\agendaSQL.pdb
+C:\csharp\agendaSQL\obj\Debug\agendaSQL.frm_menu.resources
+C:\csharp\agendaSQL\obj\Debug\agendaSQL.Properties.Resources.resources
+C:\csharp\agendaSQL\obj\Debug\agendaSQL.csproj.GenerateResource.cache
+C:\csharp\agendaSQL\obj\Debug\agendaSQL.exe
+C:\csharp\agendaSQL\obj\Debug\agendaSQL.pdb
+C:\csharp\agendaSQL\bin\Debug\System.Data.SqlServerCe.dll
+C:\csharp\agendaSQL\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\csharp\agendaSQL\obj\Debug\agendaSQL.csproj.CopyComplete
+C:\csharp\agendaSQL\obj\Debug\agendaSQL.frm_add_editar.resources
+C:\csharp\agendaSQL\obj\Debug\agendaSQL.frmResultados.resources
+C:\csharp\agendaSQL\obj\Debug\agendaSQL.pesquisa.resources
+C:\csharp\agendaSQL\obj\Debug\agendaSQL.csprojAssemblyReference.cache
